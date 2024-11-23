@@ -23,4 +23,4 @@
 
 ---
 
-Thank you for stopping by! Feel free to explore my repositories and connect with me. 🚀
+Feel free to explore my repositories and connect with me. 🚀
