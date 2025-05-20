@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Tewodros Adimas!
 
-![Profile Views](https://komarev.com/ghpvc/?username=tewodrosadimas&style=flat-square&color=blue)
 ![Full-Stack Developer](https://img.shields.io/badge/-Full--Stack%20Developer-blue?style=flat-square&logo=code&logoColor=white)
 ![Data Science Enthusiast](https://img.shields.io/badge/-Data%20Science%20Learner-brightgreen?style=flat-square&logo=python&logoColor=white)
 
