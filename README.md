@@ -8,7 +8,7 @@
 ## 🧑‍💻 About Me
 
 - 🌍 **From:** Ethiopia  
-- 💼 **Current Role:** Full-Stack Developer (Django & React) at [Bank of Abyssinia](https://www.bankofabyssinia.com)  
+- 💼 **Current Role:** Full-Stack Developer (Django & React) 
 - 🎓 **Education:** MSc in Electrical Communications | BSc in Electrical & Computer Engineering  
 - 🧠 **Learning Focus:** Data Science, Machine Learning, and Kubernetes  
 - 🚀 **Aspiring:** AI Entrepreneur & Freelancer  
