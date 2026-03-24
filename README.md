@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tewodros Bewuket
+# 👋 Hi, I'm Tewodros Bewuket Adimas
 
 🧠 AI Engineer | Machine Learning | Backend Developer | MSc Student in AI
 
@@ -79,4 +79,4 @@ Currently, I am:
 ## 📊 GitHub Stats
 
 ```md
-![Tewodros's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Tewodros's GitHub stats](https://github-readme-stats.vercel.app/api?username=TewodrosAdimas&show_icons=true&theme=tokyonight)
