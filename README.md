@@ -75,8 +75,3 @@ Currently, I am:
 - Work in AI research / industry roles in Europe or globally
 
 ---
-
-## 📊 GitHub Stats
-
-```md
-![Tewodros's GitHub stats](https://github-readme-stats.vercel.app/api?username=TewodrosAdimas&show_icons=true&theme=tokyonight)
