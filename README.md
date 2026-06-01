@@ -18,7 +18,6 @@ Currently, I am:
 
 - Machine Learning
 - Deep Learning 
-- EEG signal classification & preprocessing
 - Feature extraction & normalization techniques
 - Data analysis and pattern recognition
 - Signal & image processing for healthcare applications
@@ -31,7 +30,6 @@ Currently, I am:
 - RESTful APIs design & development
 - JWT Authentication systems
 - Webhooks & payment integration (Chapa)
-- Messaging systems & scalable backend architecture
 - Database design & optimization
 
 ---
