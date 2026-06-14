@@ -4,9 +4,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tewodros-bewuket)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tewodros-bewuket)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tewodros-adimas)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TewodrosAdimas)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tewodros299@email.com)
 
 </div>
 
@@ -153,8 +153,8 @@ Django web app that translates Amharic text to English, paraphrases it with a Hu
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tewodros-bewuket&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tewodros-bewuket&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TewodrosAdimas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TewodrosAdimas&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -162,7 +162,7 @@ Django web app that translates Amharic text to English, paraphrases it with a Hu
 
 ## 🌍 Mission
 
-> *"To build AI systems and ecosystems that create opportunities, solve meaningful problems, and contribute to the advancement of technology in Ethiopia and beyond."*
+> *"To build AI systems and ecosystems that create opportunities, solve meaningful problems, and contribute to the advancement of technology."*
 
 <div align="center">
 
