@@ -1,143 +1,171 @@
-# 👋 Hi, I'm Tewodros Bewuket Adimas
+<div align="center">
 
-🧠 AI Engineer | Full-Stack AI Developer | Machine Learning & Deep Learning Enthusiast | MSc Student in Artificial Intelligence
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Tewodros%20Bewuket%20Adimas&fontSize=38&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20MSc%20in%20Artificial%20Intelligence&descAlignY=58&descSize=16&descColor=a0a8b8" />
 
----
+<br/>
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tewodros-bewuket)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tewodros-bewuket)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-I am an AI-focused engineer with a background in Electrical & Computer Engineering (Communications) and a strong passion for developing intelligent systems that solve real-world problems.
-
-My interests span across:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Deep Learning & Neural Networks
-- 👁️ Computer Vision & Image Processing
-- 📡 Signal Processing & Pattern Recognition
-- 🏥 AI for Healthcare and Scientific Applications
-- 🔍 Predictive Analytics & Data-Driven Decision Making
-- 🤖 Agentic AI Systems & LLM Applications
-- 🌐 Full-Stack AI Product Development
-
-Currently, I am pursuing an MSc in Artificial Intelligence for Science and Technology while building practical AI solutions from data collection and model development to deployment and scalable applications.
+</div>
 
 ---
 
-## 🧠 Artificial Intelligence & Machine Learning
+## ⚡ About Me
 
-### Machine Learning
-- Supervised Learning
-- Unsupervised Learning
-- Classification Models
-- Regression Models
-- Clustering Techniques
-- Feature Engineering
-- Model Evaluation & Validation
-- Predictive Analytics
+I'm an AI-focused engineer based in **Milan, Italy** — building intelligent systems that solve real-world problems, from biomedical imaging to language models for low-resource languages.
 
-### Deep Learning
-- Artificial Neural Networks (ANN)
-- Convolutional Neural Networks (CNN)
-- Transfer Learning
-- Transformer Architectures
-- Model Fine-Tuning
-- Representation Learning
-- Training & Optimization Techniques
+- 🎓 **MSc in Artificial Intelligence** @ University of Milano-Bicocca
+- 🏦 **Digital Banking Junior IT Officer** @ Bank of Abyssinia
+- 🔬 Current focus: **Federated Learning for Medical Imaging** (comparing FedAvg, FedProx & personalized FL)
+- 🌍 Mission: Advance AI equity and access in **Ethiopia and beyond**
+- 🗣️ Building NLP tools for **Amharic** and other low-resource languages
 
-### Computer Vision & Image Processing
-- Image Classification
-- Object Detection
-- Image Segmentation
+---
+
+## 🧠 Core Expertise
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**AI & Machine Learning**
+- Supervised & Unsupervised Learning
+- CNNs · Transformers · Transfer Learning
 - Medical Image Analysis
-- Image Enhancement
-- Feature Extraction
-- OpenCV Fundamentals
+- Signal & Time-Series Processing
+- Model Fine-Tuning & Optimization
 
-### Signal Processing
-- Digital Signal Processing
-- Signal Analysis
-- Noise Reduction & Filtering
-- Time-Series Analysis
-- Pattern Recognition
-- Biomedical Signal Processing
+</td>
+<td valign="top" width="33%">
 
----
-
-## 🤖 Generative AI & LLM Engineering
-
-- Large Language Models (LLMs)
-- Prompt Engineering
+**Generative AI & LLMs**
+- Large Language Models
 - Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
 - Agentic AI Systems
-- AI Assistants & Chatbots
-- AI Workflow Automation
-- Multi-Agent Systems
-- LLM Application Development
+- Multi-Agent Orchestration
+
+</td>
+<td valign="top" width="33%">
+
+**Full-Stack AI Development**
+- Python · Django · FastAPI
+- React.js · Next.js
+- Docker · Kubernetes
+- REST API Design
+- End-to-End AI Deployment
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Full-Stack AI Development
+## 🛠️ Tech Stack
 
-### Backend
-- Python
-- Django
-- Django REST Framework
-- RESTful API Development
-- JWT Authentication
-- Database Design
-- Payment Integration & Webhooks
+<div align="center">
 
-### Frontend
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Bootstrap
-- Responsive User Interfaces
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 
-### AI Deployment
-- Model Serving APIs
-- AI Application Integration
-- End-to-End AI Product Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
----
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🧰 DevOps, Cloud & Tools
-
-- Docker
-- Kubernetes
-- Git & GitHub
-- Linux
-- CI/CD Fundamentals
-- Containerized AI Applications
+</div>
 
 ---
 
-## 🎯 Areas of Interest
+## 🔬 Featured Projects
 
-- Artificial General Intelligence (AGI)
-- Healthcare AI
-- Scientific Machine Learning
-- Computer Vision
-- Signal & Image Processing
-- Agentic AI Systems
-- AI Startups & Innovation
-- AI for Developing Countries
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Skin Cancer AI — DermAI
+Streamlit app for skin lesion classification across 7 classes using CNN & ResNet18 trained on HAM10000. Features Grad-CAM explainability, confidence scores, and a clinical dark UI.
+
+`Python` `ResNet18` `Streamlit` `Grad-CAM` `HAM10000`
+
+</td>
+<td width="50%">
+
+### 🩺 Breast Tumor Analysis Pipeline
+Three-stage deep learning pipeline on the BUSI dataset: **Localization** (YOLOv8) → **Segmentation** (U-Net) → **Classification** (ResNet18) for benign vs. malignant tumors.
+
+`YOLOv8` `U-Net` `ResNet18` `Medical Imaging` `PyTorch`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🫀 Arrhythmia Detection from ECG
+1D-CNN that classifies raw ECG signals as normal or arrhythmic — a lightweight, signal-native approach to cardiac anomaly detection.
+
+`1D-CNN` `ECG` `Biosignal ML` `TensorFlow` `Python`
+
+</td>
+<td width="50%">
+
+### 🧠 EEG AI Predictor
+Django REST API serving an SVM-based EEG classifier across 5 brain states (eyes open/closed, epileptic zones, seizure). Includes a modern dark UI dashboard with confidence visualization.
+
+`Django` `SVM` `EEG` `REST API` `Signal Processing`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 Fraud Detection Pipeline
+Unsupervised fraud detection combining clustering, anomaly-detection algorithms, and a Bayesian Network for probabilistic behavioral modeling.
+
+`Bayesian Networks` `Clustering` `Anomaly Detection` `Scikit-Learn`
+
+</td>
+<td width="50%">
+
+### 🗣️ Amharic Paraphrasing Tool
+Django web app that translates Amharic text to English, paraphrases it with a HuggingFace transformer, then translates back — supporting NLP in a low-resource language.
+
+`Transformers` `HuggingFace` `Django` `Amharic` `NLP`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Stats
 
-- Advanced Deep Learning
-- Transformer Architectures
-- Multimodal AI
-- Agentic AI Systems
-- Medical Image Analysis
-- Scalable AI Infrastructure
-- MLOps & AI Deployment
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tewodros-bewuket&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tewodros-bewuket&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🌍 Mission
 
-To build AI systems and ecosystems that create opportunities, solve meaningful problems, and contribute to the advancement of technology in Ethiopia and beyond.
+> *"To build AI systems and ecosystems that create opportunities, solve meaningful problems, and contribute to the advancement of technology in Ethiopia and beyond."*
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
+
+</div>
