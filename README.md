@@ -16,11 +16,13 @@
 
 I'm an AI-focused engineer based in **Milan, Italy** — building intelligent systems that solve real-world problems, from biomedical imaging to language models for low-resource languages.
 
-- 🎓 **MSc in Artificial Intelligence** @ University of Milano-Bicocca
-- 🏦 **Digital Banking Junior IT Officer** @ Bank of Abyssinia
-- 🔬 Current focus: **Federated Learning for Medical Imaging** (comparing FedAvg, FedProx & personalized FL)
-- 🌍 Mission: Advance AI equity and access in **Ethiopia and beyond**
-- 🗣️ Building NLP tools for **Amharic** and other low-resource languages
+🎓 MSc in Artificial Intelligence @ University of Milano-Bicocca
+🏦 Digital Banking Junior IT Officer @ Bank of Abyssinia
+🔬 Focused on Federated Learning for Medical Imaging (FedAvg, FedProx, personalized FL comparisons)
+🧠 Interested in AI/ML Engineering, Computer Vision, and Medical AI applications
+🏥 Building expertise in medical imaging, medical signal processing, and healthcare AI systems
+🗣️ Developing NLP systems for Amharic and other low-resource languages
+🌍 Goal: Apply AI to solve real-world problems in healthcare and underserved region
 
 ---
 
